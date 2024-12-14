@@ -1,5 +1,4 @@
 # Divulgacion_PISIS
-Archivos de un artículo de divulgación
+Archivos del Artículo de Divulgación
 git clone https://github.com/IdaliaSalinas/Divulgacion_PISIS.git
-cd Divulgacion_PISIS
 
